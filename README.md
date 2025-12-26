@@ -236,6 +236,7 @@ These are strategic roles, typically requiring 10+ years (often 12-15+ years) of
 
 
 ## I am Meena Rani you can explore about me at
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Meena_-_circle.png)
 <p>https://luminisindia.com/</p>
 <p>https://luminisindia.com/about-meena</p>
 
@@ -244,4 +245,4 @@ These are strategic roles, typically requiring 10+ years (often 12-15+ years) of
 <p>Linkedin Profile: 	https://www.linkedin.com/in/meena1/ </p>
 <p>YouTube Channel: 	https://www.youtube.com/@cybersecurityforever8214 </p>
 <p>About ME Video: 	https://www.youtube.com/watch?v=T66K3K5Y2tI </p>
-<p>Hear My Podcast: 	https://anchor.fm/meena-r /p>
+<p>Hear My Podcast: 	https://anchor.fm/meena-r </p>
