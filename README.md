@@ -93,11 +93,11 @@ These roles focus heavily on day-to-day operations, maintenance, and foundationa
 
 ### Technical Skills (The Foundation)
 
-	** •Core Networking Fundamentals:** Strong knowledge of Routing and Switching concepts (VLANs, STP, Layer 2/3), TCP/IP model, and basic protocols like DNS, DHCP, and NAT are mandatory.
+	** Core Networking Fundamentals: ** Strong knowledge of Routing and Switching concepts (VLANs, STP, Layer 2/3), TCP/IP model, and basic protocols like DNS, DHCP, and NAT are mandatory.
 
 ![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/4%20foundation%20of%20routing%20and%20switching.jpg)
 
-	• **Hardware and Configuration:** Hands-on experience configuring and managing core network devices, including Cisco routers and switches (various models), Cisco Meraki, and Aruba Switches/Access Points.
+	• ** Hardware and Configuration: ** Hands-on experience configuring and managing core network devices, including Cisco routers and switches (various models), Cisco Meraki, and Aruba Switches/Access Points.
 
 	• **Security Basics:** Familiarity with firewalls, VPN solutions (IPsec/SSL), and network security concepts (ACLs, IDS/IPS).
 
