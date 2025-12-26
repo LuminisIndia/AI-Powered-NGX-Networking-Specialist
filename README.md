@@ -1,6 +1,6 @@
 There are countless networking courses available today. To cut through the noise, I conducted extensive research into the specific skills companies expect from next-generation network engineers. I analyzed over 100 networking job postings from various companies and categorized the most essential and common skills employers are seeking. Below is the output of my research; I hope you find it helpful.
 
-** Welcome to the AI-Powered-NGX-Networking-Specialist wiki**
+** Welcome to the AI-Powered-NGX-Networking-Specialist **
 
 # **38 distinct job titles**
 
