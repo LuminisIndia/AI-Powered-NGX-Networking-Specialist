@@ -1,13 +1,13 @@
 There are countless networking courses available today. To cut through the noise, I conducted extensive research into the specific skills companies expect from next-generation network engineers. I analyzed over 100 networking job postings from various companies and categorized the most essential and common skills employers are seeking. Below is the output of my research; I hope you find it helpful.
 
-**Welcome to the AI-Powered-NGX-Networking-Specialist **
+**Welcome to the AI-Powered-NGX-Networking-Specialist**
 
 # **38 distinct job titles**
 
 Based on the job advertisements and role descriptions provided in the sources, 
 there are 38 distinct job titles related to network engineering and infrastructure across various companies and specialties.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/1%20Anatomy%20of%20the%20modern%20network%20engineer.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/1%20Anatomy%20of%20the%20modern%20network%20engineer.jpg)
 
 The roles identified fall into several tiers 
 (Architect/Principal, Lead/Senior Engineer, Engineer/Specialist, and Developer/Consultant):
@@ -21,7 +21,7 @@ The roles identified fall into several tiers
 5. Staff Network Engineer (Lambda)
 6. Senior Principal Field Service Engineer (Northrop Grumman)
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/12%20Modern%20Network%20engineer.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/12%20Modern%20Network%20engineer.jpg)
 
 # II. Lead and Senior Engineer Roles
 7. Lead Network Engineer (CareCentrix, Swire Coca-Cola, USA)
@@ -60,7 +60,7 @@ The roles identified fall into several tiers
 36. Network Engineering Specialist Advisor (NTT DATA)
 37. IT Infrastructure & Network Engineer (Larsen & Toubro)
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/14%20Hybrid%20software%20and%20network%20engineer.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/14%20Hybrid%20software%20and%20network%20engineer.jpg)
 
 # IV. Specialized Technical/Development Roles
 
@@ -75,7 +75,7 @@ The roles identified fall into several tiers
 45. Infra Engineer - Network Operation (GMI Cloud)
 46. Infrastructure Specialist (Kyndryl)
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/2%20The%20networ%20is%20the%20unseen%20engine%20of%20progress.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/2%20The%20networ%20is%20the%20unseen%20engine%20of%20progress.jpg)
 
 Note: Some job titles were streamlined or counted once if the sources contained multiple listings for the exact same title/company (e.g., Network Engineer or Senior Network Engineer), while highly specific titles (e.g., Senior Network Architect/Engineer (Secure SD-WAN & IP/MPLS)) were counted separately to reflect the unique requirements.
 
@@ -84,7 +84,7 @@ Note: Some job titles were streamlined or counted once if the sources contained 
 
 The job roles you categorized demand distinct skill sets that scale in complexity, moving from operational support and execution (Entry/General) to strategic design and business leadership (Lead/Architect). Below is a breakdown of the required technical and non-technical skills for each tier, based on the job requirements detailed in the sources.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/3%20A%20four-layer%20skill%20stack.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/3%20A%20four-layer%20skill%20stack.jpg)
 
 ## I. Entry-Level/Specialist Roles (e.g., Network Support Specialist, Network Engineer 1, Infra Engineer - Network Operation)
 --------------------------------------------------------------------------------------------------------------------------
@@ -95,7 +95,7 @@ These roles focus heavily on day-to-day operations, maintenance, and foundationa
 
 • **Core Networking Fundamentals:** Strong knowledge of Routing and Switching concepts (VLANs, STP, Layer 2/3), TCP/IP model, and basic protocols like DNS, DHCP, and NAT are mandatory.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/4%20foundation%20of%20routing%20and%20switching.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/4%20foundation%20of%20routing%20and%20switching.jpg)
 
 • **Hardware and Configuration:** Hands-on experience configuring and managing core network devices, including Cisco routers and switches (various models), Cisco Meraki, and Aruba Switches/Access Points.
 
@@ -105,7 +105,7 @@ These roles focus heavily on day-to-day operations, maintenance, and foundationa
 
 • **Operating Systems:** Basic working knowledge of Linux/Unix and Windows systems.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/5%20Three%20pillars%20of%20transformation.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/5%20Three%20pillars%20of%20transformation.jpg)
 
 ### Non-Technical Skills (Operational Effectiveness)
 
@@ -117,7 +117,7 @@ These roles focus heavily on day-to-day operations, maintenance, and foundationa
 
 • **Attitude:** Must be a self-starter, possess a customer-focused attitude, be eager to learn, and display a "can do" attitude.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/6%20The%20cloud-native%20network.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/6%20The%20cloud-native%20network.jpg)
 
 
 ##  II. Mid-Level/General Engineering Roles (e.g., Network Engineer, Network Operations Engineer, Specialist - Network Engineer)
@@ -156,7 +156,7 @@ These roles involve supporting complex, production-impacting infrastructures, de
 
 --------------------------------------------------------------------------------------------------------------------------
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/7%20network-as-code.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/7%20network-as-code.jpg)
 
 These roles typically require 8-15 years of experience and are responsible for owning complex technical domains, driving architectural implementation, and providing team leadership or mentorship.
 
@@ -175,7 +175,7 @@ These roles typically require 8-15 years of experience and are responsible for o
 
 • **Security Deep Dive:** Deep experience managing firewall security, often including high-end platforms like Palo Alto and F5 Load Balancers/WAFs for traffic distribution and security.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/8%20Integrated%20security%20fabric.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/8%20Integrated%20security%20fabric.jpg)
 
 ### Non-Technical Skills (Leadership and Project Management)
 
@@ -189,7 +189,7 @@ These roles typically require 8-15 years of experience and are responsible for o
 
 • **Stakeholder Communication:** Excellent communication skills necessary to articulate complex technical issues and network strategies to non-technical business stakeholders and management.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/9%20New%20frontiers.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/9%20New%20frontiers.jpg)
 
 ## IV. Principal/Architect Roles (e.g., Principal Network Architect, Staff Backbone Network Engineer)
 
@@ -197,7 +197,7 @@ These roles typically require 8-15 years of experience and are responsible for o
 
 These are strategic roles, typically requiring 10+ years (often 12-15+ years) of experience, focusing on vision, long-term strategy, reliability engineering (SRE), and setting the architectural foundation for global, massive-scale systems (like AI/Cloud).
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/10%20AI%20Revolution.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/10%20AI%20Revolution.jpg)
 
 ### Technical Skills (Hyperscale, Design, and SRE)
 
@@ -207,33 +207,32 @@ These are strategic roles, typically requiring 10+ years (often 12-15+ years) of
 
 • **Advanced Core Protocols:** Expert-level mastery of advanced protocols such as MPLS, ISIS, Segment Routing (SR), and large-scale Anycast deployments for global content delivery.
 
-• **AI/HPC Networking:** Specific experience in low-latency networks, Infiniband, or RoCEv2 (RDMA) is highly desirable for AI/ML infrastructure companies.
+• **AI/HPC Networking:**Specific experience in low-latency networks, Infiniband, or RoCEv2 (RDMA) is highly desirable for AI/ML infrastructure companies.
 
 • **Strategic Automation & IaC:** Expected to define and evolve the automation architecture (e.g., GitOps-driven pipelines, CI/CD, Python, Terraform) for configuration, deployment, and monitoring across the entire infrastructure footprint.
 
 • **Observability Engineering:** Architecting and maintaining full observability and telemetry pipelines (Prometheus, Grafana, Splunk, NetFlow/sFlow) to drive operational stability and metrics based on SRE principles.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/11%20Monitoring.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/11%20Monitoring.jpg)
 
 ### Non-Technical Skills (Strategy and Vision)
 
-• **Strategic Vision and Architectural Direction:** Defining and evolving the long-term network strategy and architecture spanning multiple clouds and regions. This involves strategic planning and risk identification.
+• S**trategic Vision and Architectural Direction:** Defining and evolving the long-term network strategy and architecture spanning multiple clouds and regions. This involves strategic planning and risk identification.
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/13%20Human%20Element.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/13%20Human%20Element.jpg)
 
 • **Organizational Leadership:** Providing technical leadership and clear architectural direction across multiple engineering teams. This includes hiring, developing people, managing performance, and setting team strategy.
 
 • **Autonomy and Ambiguity:** Comfortable working independently in fast-moving, ambiguous environments, balancing strategic design with execution realities.
 
 
-![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/15%20Architect%20of%20the%20digital%20future.jpg)
+![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/15%20Architect%20of%20the%20digital%20future.jpg)
 
 • **Compliance and Governance:** Driving adherence to stringent compliance standards (e.g., SOC, HIPAA, NIST, regulatory compliance) and reviewing change management processes at a high level.
 
 • **Business Impact Focus:** Designing solutions based on business requirements, ensuring scalability, resiliency, and security requirements are met.
 
-
-
+______________________________________________________________________
 
 
 ## I am Meena Rani you can explore about me at
