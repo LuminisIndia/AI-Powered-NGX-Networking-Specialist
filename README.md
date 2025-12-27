@@ -207,7 +207,7 @@ These are strategic roles, typically requiring 10+ years (often 12-15+ years) of
 
 • **Advanced Core Protocols:** Expert-level mastery of advanced protocols such as MPLS, ISIS, Segment Routing (SR), and large-scale Anycast deployments for global content delivery.
 
-• **AI/HPC Networking:**Specific experience in low-latency networks, Infiniband, or RoCEv2 (RDMA) is highly desirable for AI/ML infrastructure companies.
+• **AI/HPC Networking:** Specific experience in low-latency networks, Infiniband, or RoCEv2 (RDMA) is highly desirable for AI/ML infrastructure companies.
 
 • **Strategic Automation & IaC:** Expected to define and evolve the automation architecture (e.g., GitOps-driven pipelines, CI/CD, Python, Terraform) for configuration, deployment, and monitoring across the entire infrastructure footprint.
 
@@ -217,7 +217,7 @@ These are strategic roles, typically requiring 10+ years (often 12-15+ years) of
 
 ### Non-Technical Skills (Strategy and Vision)
 
-• S**trategic Vision and Architectural Direction:** Defining and evolving the long-term network strategy and architecture spanning multiple clouds and regions. This involves strategic planning and risk identification.
+• **Strategic Vision and Architectural Direction:** Defining and evolving the long-term network strategy and architecture spanning multiple clouds and regions. This involves strategic planning and risk identification.
 
 ![alt](https://github.com/LuminisIndia/AI-Powered-NGX-Networking-Specialist/blob/main/Images/13%20Human%20Element.jpg)
 
